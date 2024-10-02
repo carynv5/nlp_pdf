@@ -8,7 +8,8 @@ This project provides a collection of Python scripts for extracting various type
 - Table extraction
 - Image extraction
 - Geometric shape extraction
-- Colpali-based extraction (placeholder)
+- Colpali-based extraction
+- Camelot[CV]
 
 ## Installation
 
