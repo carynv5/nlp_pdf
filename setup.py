@@ -25,13 +25,13 @@ setup(
     },
     entry_points={
         'console_scripts': [
-            'extract-text = pdf-extraction.text_extraction:main',
-            'extract-tables = pdf-extraction.table_extraction:main',
-            'extract-images = pdf-extraction.image_extraction:main',
-            'extract-geometric = pdf-extraction.geometric_extraction:main',
-            'extract-colpali = pdf-extraction.colpali_extraction:main',
-            'extract-geo = pdf-extraction.geo_extraction:main',
-            'extract-camelot = pdf-extraction.camelot_extraction:main',
+            'extract-text = pdf_extraction.text_extraction:main',
+            'extract-tables = pdf_extraction.table_extraction:main',
+            'extract-images = pdf_extraction.image_extraction:main',
+            'extract-geometric = pdf_extraction.geometric_extraction:main',
+            'extract-colpali = pdf_extraction.colpali_extraction:main',
+            'extract-geo = pdf_extraction.geo_extraction:main',
+            'extract-camelot = pdf_extraction.camelot_extraction:main',
         ]
     }
 )

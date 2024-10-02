@@ -21,6 +21,8 @@ dependencies = [
     "setuptools>=58.0.0",
     "tika>=1.26.0",
     "python-dotenv>=1.0.1",
+    "torch>=1.0.0",
+    "byaldi",
 ]
 requires-python = ">=3.9"
 
@@ -28,10 +30,10 @@ requires-python = ">=3.9"
 dev = ["pytest>=7.1.2"]
 
 [tool.poetry.scripts]
-extract-text = "pdf_extraction_examples.text_extraction:main"
-extract-tables = "pdf_extraction_examples.table_extraction:main"
-extract-images = "pdf_extraction_examples.image_extraction:main"
-extract-geometric = "pdf_extraction_examples.geometric_extraction:main"
-extract-colpali = "pdf_extraction_examples.colpali_extraction:main"
-extract-geo = "pdf_extraction_examples.geo_extraction:main"
-extract-camelot = "pdf_extraction_examples.camelot_extraction:main"
+extract-text = "pdf_extraction.text_extraction:main"
+extract-tables = "pdf_extraction.table_extraction:main"
+extract-images = "pdf_extraction.image_extraction:main"
+extract-geometric = "pdf_extraction.geometric_extraction:main"
+extract-colpali = "pdf_extraction.colpali_extraction:main"
+extract-geo = "pdf_extraction.geo_extraction:main"
+extract-camelot = "pdf_extraction.camelot_extraction:main"
