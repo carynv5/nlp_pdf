@@ -14,8 +14,8 @@ This project provides a collection of Python scripts for extracting various type
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/pdf-extraction-examples.git
-   cd pdf-extraction-examples
+   git clone git@github.com:carynv5/nlp_pdf.git
+   cd nlp_pdf
    ```
 
 2. Install the required dependencies:
