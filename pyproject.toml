@@ -1,0 +1,37 @@
+[project]
+name = "pdf-extraction-examples"
+version = "0.1.0"
+description = "A collection of PDF extraction examples using various libraries"
+authors = [
+    {name = "Cary Greenwood", email = "cary.greenwood@nv5.com"},
+]
+dependencies = [
+    "PyPDF2==2.10.0",
+    "opencv-python>=4.5.5",
+    "PyMuPDF>=1.19.6",
+    "colpali-engine>=0.3.1,<0.4.0",
+    "geopandas>=0.10.0",
+    "rasterio>=1.2.0",
+    "Pillow>=8.0.0",
+    "pdf2image==1.15.1",
+    "camelot-py==0.9.0",
+    "ipykernel>=6.0.0",
+    "tqdm>=4.64.0",
+    "torch>=1.8.0",
+    "setuptools>=58.0.0",
+    "tika>=1.26.0",
+    "python-dotenv>=1.0.1",
+]
+requires-python = ">=3.9"
+
+[project.optional-dependencies]
+dev = ["pytest>=7.1.2"]
+
+[tool.poetry.scripts]
+extract-text = "pdf_extraction_examples.text_extraction:main"
+extract-tables = "pdf_extraction_examples.table_extraction:main"
+extract-images = "pdf_extraction_examples.image_extraction:main"
+extract-geometric = "pdf_extraction_examples.geometric_extraction:main"
+extract-colpali = "pdf_extraction_examples.colpali_extraction:main"
+extract-geo = "pdf_extraction_examples.geo_extraction:main"
+extract-camelot = "pdf_extraction_examples.camelot_extraction:main"
