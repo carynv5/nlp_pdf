@@ -41,8 +41,8 @@ After cloning this project, you need to set up the correct paths in the `.env` f
 
 4. Replace `/path/to/project` with the absolute path to the directory where you cloned the project. For example:
 
-   - On Linux or macOS: `BASE_PATH=/home/username/projects/your-project-name`
-   - On Windows: `BASE_PATH=C:\Users\username\projects\your-project-name`
+   - On Linux or macOS: `BASE_PATH=/home/username/projects/nlp_pdf`
+   - On Windows: `BASE_PATH=C:\Users\username\projects\nlp_pdf`
 
    Make sure to use forward slashes (`/`) even on Windows.
 
