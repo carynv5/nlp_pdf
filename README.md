@@ -92,7 +92,6 @@ This project relies on several Python libraries, including:
 - opencv-python
 - PyMuPDF
 - colpali-engine
-- geopandas
 - rasterio
 - Pillow
 - pdf2image
