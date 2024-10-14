@@ -22,15 +22,59 @@ attrs==24.2.0
     # via
     #   aiohttp
     #   jsonlines
+    #   jsonschema
     #   rasterio
+    #   referencing
+azure-ai-formrecognizer==3.3.3
+    # via pdf-extraction-examples (pyproject.toml)
+azure-ai-ml==1.21.0
+    # via pdf-extraction-examples (pyproject.toml)
+azure-common==1.1.28
+    # via
+    #   azure-ai-formrecognizer
+    #   azure-ai-ml
+azure-core==1.31.0
+    # via
+    #   azure-ai-formrecognizer
+    #   azure-ai-ml
+    #   azure-identity
+    #   azure-keyvault-keys
+    #   azure-keyvault-secrets
+    #   azure-mgmt-core
+    #   azure-storage-blob
+    #   azure-storage-file-datalake
+    #   azure-storage-file-share
+    #   msrest
+    #   opencensus-ext-azure
+azure-identity==1.19.0
+    # via
+    #   pdf-extraction-examples (pyproject.toml)
+    #   opencensus-ext-azure
+azure-keyvault-keys==4.9.0
+    # via pdf-extraction-examples (pyproject.toml)
+azure-keyvault-secrets==4.8.0
+    # via pdf-extraction-examples (pyproject.toml)
+azure-mgmt-core==1.4.0
+    # via azure-ai-ml
+azure-storage-blob==12.23.1
+    # via
+    #   azure-ai-ml
+    #   azure-storage-file-datalake
+azure-storage-file-datalake==12.17.0
+    # via azure-ai-ml
+azure-storage-file-share==12.19.0
+    # via azure-ai-ml
 byaldi==0.0.4
     # via pdf-extraction-examples (pyproject.toml)
+cachetools==5.5.0
+    # via google-auth
 camelot-py==0.9.0
     # via pdf-extraction-examples (pyproject.toml)
 catalogue==2.0.10
     # via srsly
 certifi==2024.8.30
     # via
+    #   msrest
     #   pyogrio
     #   pyproj
     #   rasterio
@@ -53,6 +97,8 @@ click-plugins==1.1.1
     # via rasterio
 cligj==0.7.2
     # via rasterio
+colorama==0.4.6
+    # via azure-ai-ml
 colpali-engine==0.3.1
     # via
     #   pdf-extraction-examples (pyproject.toml)
@@ -60,7 +106,14 @@ colpali-engine==0.3.1
 comm==0.2.2
     # via ipykernel
 cryptography==43.0.1
-    # via pdfminer-six
+    # via
+    #   azure-identity
+    #   azure-keyvault-keys
+    #   azure-storage-blob
+    #   azure-storage-file-share
+    #   msal
+    #   pdfminer-six
+    #   pyjwt
 datasets==2.14.4
     # via mteb
 debugpy==1.8.6
@@ -93,6 +146,12 @@ fsspec==2024.9.0
     #   torch
 geopandas==1.0.1
     # via pdf-extraction-examples (pyproject.toml)
+google-api-core==2.21.0
+    # via opencensus
+google-auth==2.35.0
+    # via google-api-core
+googleapis-common-protos==1.65.0
+    # via google-api-core
 gputil==1.4.0
     # via colpali-engine
 huggingface-hub==0.25.1
@@ -111,6 +170,15 @@ ipykernel==6.29.5
     # via pdf-extraction-examples (pyproject.toml)
 ipython==8.27.0
     # via ipykernel
+isodate==0.7.2
+    # via
+    #   azure-ai-ml
+    #   azure-keyvault-keys
+    #   azure-keyvault-secrets
+    #   azure-storage-blob
+    #   azure-storage-file-datalake
+    #   azure-storage-file-share
+    #   msrest
 jedi==0.19.1
     # via ipython
 jinja2==3.1.4
@@ -119,6 +187,10 @@ joblib==1.4.2
     # via scikit-learn
 jsonlines==4.0.0
     # via mteb
+jsonschema==4.23.0
+    # via azure-ai-ml
+jsonschema-specifications==2024.10.1
+    # via jsonschema
 jupyter-client==8.6.3
     # via ipykernel
 jupyter-core==5.7.2
@@ -129,6 +201,8 @@ markdown-it-py==3.0.0
     # via rich
 markupsafe==2.1.5
     # via jinja2
+marshmallow==3.22.0
+    # via azure-ai-ml
 matplotlib-inline==0.1.7
     # via
     #   ipykernel
@@ -139,6 +213,16 @@ ml-dtypes==0.5.0
     # via byaldi
 mpmath==1.3.0
     # via sympy
+msal==1.31.0
+    # via
+    #   azure-identity
+    #   msal-extensions
+msal-extensions==1.2.0
+    # via azure-identity
+msrest==0.7.1
+    # via
+    #   azure-ai-formrecognizer
+    #   azure-ai-ml
 mteb==1.6.35
     # via byaldi
 multidict==6.1.0
@@ -172,6 +256,18 @@ numpy==1.26.4
     #   scipy
     #   shapely
     #   transformers
+oauthlib==3.2.2
+    # via requests-oauthlib
+opencensus==0.11.4
+    # via
+    #   opencensus-ext-azure
+    #   opencensus-ext-logging
+opencensus-context==0.1.3
+    # via opencensus
+opencensus-ext-azure==1.1.13
+    # via azure-ai-ml
+opencensus-ext-logging==0.1.1
+    # via azure-ai-ml
 opencv-python==4.10.0.84
     # via pdf-extraction-examples (pyproject.toml)
 openpyxl==3.1.5
@@ -183,6 +279,7 @@ packaging==24.1
     #   geopandas
     #   huggingface-hub
     #   ipykernel
+    #   marshmallow
     #   peft
     #   pyogrio
     #   transformers
@@ -211,12 +308,22 @@ pillow==10.4.0
     #   sentence-transformers
 platformdirs==4.3.6
     # via jupyter-core
+portalocker==2.10.1
+    # via msal-extensions
 prompt-toolkit==3.0.48
     # via ipython
+proto-plus==1.24.0
+    # via google-api-core
+protobuf==5.28.2
+    # via
+    #   google-api-core
+    #   googleapis-common-protos
+    #   proto-plus
 psutil==6.0.0
     # via
     #   accelerate
     #   ipykernel
+    #   opencensus-ext-azure
     #   peft
 ptyprocess==0.7.0
     # via pexpect
@@ -224,16 +331,28 @@ pure-eval==0.2.3
     # via stack-data
 pyarrow==17.0.0
     # via datasets
+pyasn1==0.6.1
+    # via
+    #   pyasn1-modules
+    #   rsa
+pyasn1-modules==0.4.1
+    # via google-auth
 pycparser==2.22
     # via cffi
 pydantic==2.9.2
     # via mteb
 pydantic-core==2.23.4
     # via pydantic
+pydash==8.0.3
+    # via azure-ai-ml
 pygments==2.18.0
     # via
     #   ipython
     #   rich
+pyjwt==2.9.0
+    # via
+    #   azure-ai-ml
+    #   msal
 pymupdf==1.24.10
     # via pdf-extraction-examples (pyproject.toml)
 pymupdfb==1.24.10
@@ -252,6 +371,7 @@ python-dateutil==2.9.0.post0
     # via
     #   jupyter-client
     #   pandas
+    #   strictyaml
 python-dotenv==1.0.1
     # via pdf-extraction-examples (pyproject.toml)
 pytrec-eval-terrier==0.5.6
@@ -261,6 +381,7 @@ pytz==2024.2
 pyyaml==6.0.2
     # via
     #   accelerate
+    #   azure-ai-ml
     #   datasets
     #   huggingface-hub
     #   peft
@@ -271,18 +392,36 @@ pyzmq==26.2.0
     #   jupyter-client
 rasterio==1.4.1
     # via pdf-extraction-examples (pyproject.toml)
+referencing==0.35.1
+    # via
+    #   jsonschema
+    #   jsonschema-specifications
 regex==2024.9.11
     # via transformers
 requests==2.32.3
     # via
+    #   azure-core
     #   colpali-engine
     #   datasets
+    #   google-api-core
     #   huggingface-hub
+    #   msal
+    #   msrest
     #   mteb
+    #   opencensus-ext-azure
+    #   requests-oauthlib
     #   tika
     #   transformers
+requests-oauthlib==2.0.0
+    # via msrest
 rich==13.9.1
     # via mteb
+rpds-py==0.20.0
+    # via
+    #   jsonschema
+    #   referencing
+rsa==4.9
+    # via google-auth
 safetensors==0.4.5
     # via
     #   accelerate
@@ -309,11 +448,15 @@ shapely==2.0.6
 six==1.16.0
     # via
     #   asttokens
+    #   azure-core
+    #   opencensus
     #   python-dateutil
 srsly==2.4.8
     # via byaldi
 stack-data==0.6.3
     # via ipython
+strictyaml==1.7.3
+    # via azure-ai-ml
 sympy==1.13.3
     # via torch
 threadpoolctl==3.5.0
@@ -338,6 +481,7 @@ tornado==6.4.1
 tqdm==4.66.5
     # via
     #   pdf-extraction-examples (pyproject.toml)
+    #   azure-ai-ml
     #   datasets
     #   huggingface-hub
     #   mteb
@@ -360,10 +504,20 @@ transformers==4.45.1
     #   sentence-transformers
 typing-extensions==4.12.2
     # via
+    #   azure-ai-formrecognizer
+    #   azure-ai-ml
+    #   azure-core
+    #   azure-identity
+    #   azure-keyvault-keys
+    #   azure-keyvault-secrets
+    #   azure-storage-blob
+    #   azure-storage-file-datalake
+    #   azure-storage-file-share
     #   huggingface-hub
     #   mteb
     #   pydantic
     #   pydantic-core
+    #   pydash
     #   torch
 tzdata==2024.2
     # via pandas
