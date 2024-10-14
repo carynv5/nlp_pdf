@@ -1,0 +1,246 @@
+Extracted text lines:
+CORPS OF ENGINEERS
+651,000
+648,000
+645,000
+3,939,000
+642,000
+U.S. ARMY
+VICINITY MAP
+WASHINGTON .,
+0
+Pacific Ocean
+OREGON
+3,936,000
+0
+Coos Bay
+0
+CALIFORNIA
+70North Bend
+Upper Range
+Trant Light
+North Band
+Jeper Rang
+I
+Magnetic North:
+14" 60'E,
+changing by -0" 7 W each year
+River
+Coos
+Marshfield Range
+Rear Light
+Marshfield Range
+Front Light
+Ferndale Upper Range
+Rear Light
+Ferndale
+Toont Light
+30
+20
+5
+5
+5
+3,933,000
+30
+10
+1
+8
+9
+9
+8
+40
+1
+00
+-88/01
+Copa Bay Channel
+Light 37
+1
+9
+9
+9
+8
+8
+9
+8
+9
+6
+5
+LUMERGED CABLE
+CROSSING AREA
+6
+8
+20
+1
+7
+6
+6
+9
+9
+8
+8
+9
+8
+9
+9
+30 HLT-12
+8
+8
+9
+8
+10
+8
+8
+8
+NEVADA
+DAHO
+20
+luthmus Slough
+Light 43
+1
+ENHYDROGRAPHIC
+PIERCE DOCK
+STAFF
+GAGE
+TRACK
+A
+5-
+N. END DOCK 50
+62+80
+S. END DOCK
+COOS BAY
+HLT-14
+/STAFF
+70 GAGE
+MARSHFIELD
+ALL RMS RESET
+NOTES
+Horizontal Coordinate Systemrc
+Nonh American Datum of 1983 (NAD(S), projectod to the State Plane Coordinate System
+(SPCS), Oregon South Zone. Distance units in U.S. Survey Foet.
+20
+LEGEND
+Fadetal Navigation Channel
+Federal Navigation Channel Canterine
+1
+Buary, Lateral
+NORTH BEND
+Matical Datuma:
+Soundingu ane shown in fect and indicate dopdas below Mean Lower Larw Water 1983-2000.
+MIL.LW is 1.00 foet below the North American Vertical Datum (NAVI K8) at Cook Bay City,
+1.11 feet at Cook Hay Corps Dock.
+Pipeline, Submarine On Land Line
+****- Cable, Overhead
+River mileage conforas to the River Mile Index of the Hydrology and Hydraulics Commitice,
+Pacific Northwest River Hasim Commission, Jana 1968.
+!
+!
+!
+- Cable, Submarine
+Pipeline, Overhead
+ç
+Wrack-Submerged
+è
+The information depicted on this map represents the resalta of a survey conducted
+on the date indicated and can caly be considered to represent the general channel
+conditions existing at that time and is in support of channel maintenance only.
+Anchorage Ansa
+Dredged Material Placement Area
+Cable Arsa
+THE EXISTING PROJECT
+The existing project provides for a channel across the outer har 47 feet deep and
+of waitable width with dincaxicas gradually reducing to river mile 1.Dat Gaano
+Rock; thence a channel 37 feet deep and 300 feet wide to the railroad bridge at
+river mile 9.0; thence a channel 37 fect deep and 400 for wide to river mile 15:0
+** Shoalext Sounding per Quarter por Reach
+Pipeline Ansa
+COOS BAY CORPS DOCK:
+Nothing: 646136 Eating: 3933530
+STAFF GAGE AT COOS BAY:
+Northing: 648912 Eaxting: 3934534
+CONDITION
+X
+PREDREDGE
+POSTDREDGE
+Sharing Ana
+Also provides for a turning boxin 37 fost deep, 900 feet wide and 1000 foot long at
+North Bend and Coalbank Slough.
+8 Baby, Cardinal
+Budy, Isolated Danger
+Obstruction Point
+Buoy, Sale Wantat
+Buary, Special Purpose
+Beacon, Gonetal
+Contour Lines
+2012 Aerial Photography data source: USINA, Service Center Agencies
+Benchmark
+ª
+Pylon Bridge Support
+*
+N
+N
+Stall Gaga
+(
+N
+N
+Recording Gags
+Shoalest Soundng""
+-
+Reference ix Navigation Chart No. 18587
+648,000
+645,000
+642,00
+3,933,000
+9
+8
+D
+D
+7
+D
+D
+D
+CO OS BAY
+PACIFIC OCEAN
+6
+D
+5
+D
+D
+4
+D
+D
+3
+D
+0
+D
+2
+D
+1
+D
+0
+D
+1
+D
+OREGON
+1,939,000
+39,000
+52+80
+BUNKER HILL
+50
+FAST
+3,906,000
+COOS BAY,
+OREGON
+FERNDALE & MARSHFIELD
+RANGES
+12 October 2024
+SCALE IN FEET
+0
+APPROVED
+CHEF, WATERWAYS MAINTENANCE SECTION
+RECOMMENDED
+CHILE, SURVEY SECTION
+CB_07_CB7_20241012_BD_AA5_13_15_13_30
+SURVEYED:
+PLOTTED:
+CHECKED:
+639,000
