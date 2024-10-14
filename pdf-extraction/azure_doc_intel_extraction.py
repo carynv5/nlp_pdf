@@ -40,7 +40,28 @@ def extract_geometry_with_azure(pdf_path, endpoint, key):
     geometries = []
     for page in result.pages:
         for line in page.lines:
-            geometries.append(line.polygon)  # Collect geometry data using polygon
+            # Collect line geometry
+            line_geometry = {
+                "type": "line",
+                "content": line.content,
+                "polygon": line.polygon,  # Assuming polygon is available
+                "points": line.polygon  # Assuming points are part of the polygon
+            }
+            geometries.append(line_geometry)
+        
+        # Check if tables are part of the document elements
+        if hasattr(page, 'tables'):
+            for table in page.tables:
+                for cell in table.cells:
+                    # Collect cell geometry
+                    cell_geometry = {
+                        "type": "cell",
+                        "content": cell.content,
+                        "bounding_box": cell.bounding_box,
+                        "polygon": cell.polygon,
+                        "points": cell.polygon  # Assuming points are part of the polygon
+                    }
+                    geometries.append(cell_geometry)
     return geometries
 
 def extract_text_with_azure(pdf_path, endpoint, key):
