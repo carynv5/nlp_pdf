@@ -1,0 +1,172 @@
+te
+
+US Army Corps
+
+of Engineers.
+‘Savannah District
+
+RequiredDepth: 128.
+Overdepth:14ft
+
+wthorizedDepth:12ft
+
+[Side Slope Ratio: 3:1 (Rise : Run)
+
+‘Map Number: 107
+
+2
+fy
+3
+=
+A
+:
+o
+E
+6
+:
+:
+E
+
+9
+é
+a
+8
+3
+2
+Fj
+£
+e
+3
+
+‘Survey Completed: 12/28/2023
+Imagery Date: December 2019
+
+Waterway
+
+‘CORPS OF ENGINEERS
+‘SAVANNAH, GEORGIA
+
+US. ARMY ENGINEER DISTRICT
+Atlantic Int
+
+Ramshorn Creek
+
+Station: Mile 568 to
+
+HYDROGRAPHIC SURVEY
+
+Be fete snr en a tp of
+Seen dnt
+Semen
+
+rer a te
+
+[Het |
+
+US Army Corps
+
+of Engineers.
+‘Savannah District
+
+RequiredDepth:12t.
+Overdepth: 14ft
+
+[Side Slope Ratio: 3:1 (Rise : Run)
+
+lauthorizedDepth:128.
+
+‘Map Number: 108
+
+2
+fy
+3
+=
+A
+:
+o
+E
+6
+:
+E
+
+9
+é
+a
+8
+3
+:
+Fj
+£
+e
+3
+
+‘Survey Completed: 12/28/2023
+
+Imagery Date: Decem
+
+tal Waterway
+
+US. ARMY ENGINEER DISTRICT
+‘CORPS OF ENGINEERS
+‘SAVANNAH, GEORGIA
+Atlantic Inter
+Ramshorn Creek
+Station: Mile 568.75 to Mile 570
+
+HYDROGRAPHIC SURVEY
+
+US Army Corps
+
+of Engineers.
+‘Savannah District
+
+RequiredDepth:12t.
+Overdepth:14ft
+
+[Side Slope Ratio: 3:1 (Rise : Run)
+
+lauthorizedDepth:128.
+
+‘Map Number: 109
+
+2
+fy
+3
+=
+A
+:
+o
+E
+6
+:
+E
+
+9
+é
+a
+8
+3
+:
+Fj
+£
+e
+3
+
+‘Survey Completed: 12/28/2023
+
+Imagery Date: Decem
+
+‘CORPS OF ENGINEERS
+
+US. ARMY ENGINEER DISTRICT
+‘SAVANNAH, GEORGIA
+
+ieee eg emgasun oan ncteni — eete ee arieeraation SCALE IN FEET
+‘i peta nah ra Um capa ng, ° 400 600
+
+Be eae ou nae ren pare reremon '
+
+HYDROGRAPHIC SURVEY
+
+Station: Mile 570 to
+

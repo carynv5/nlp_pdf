@@ -1,0 +1,149 @@
+NOTES:
+
+Surv ptember 17, 2024
+Conducted by: Jake P, Cody T
+
+Fat Pool:
+Water Surface: 440.17
+
+Stage: +0.17
+
+‘Water Surface Source:
+
+Downstream Gage: Peoria Lock Pool RM
+Upstream Gage: Henry RM 196.1
+
+RTK to Pool Datum: NA.
+
+Processed in ArcGIS by: Morgan A 9)
+Document Name: 11. PE_MVR 20240917 CS 1
+
+8021820 24C
+
+opin)
+© Tent
+River Fatures
+Wing Dam Location TR Tange, Res
+gms Late Buoys
+
+‘caution Areas
+
+US ARMY CORPS OF ENGINEERS
+ROCK ISLAND DISTRICT
+EMVR - OD-T
+WATERWAY: ILLINOIS WATERWAY
+POOL: Peoria
+REACH: ATSF RR Bridge
+R MILES: 181.6 to 182.8
+VEY TYPE: CONDITION
+COLLECTION TYPE: Multibeam
+0100 20040060 8H Fad e*
+—_ pt Fer
+RVEYED RIVER MILES: 180.2-182.0
+
+US Army Corps
+of Engineers
+
+Zz
+[ey
+ee
+Ee
+a
+a
+
+praia
+
+Chillicothe
+Island
+
+NOTES:
+
+‘Survey Date: September
+Conducted by: Jake P, Cody T
+Survey Vessel: SV Ragnar
+
+‘Water Surface Source:
+Downstream Gage: Peoria Lock Pool RM
+Upstream Gage: Henry RM 196.1
+
+ool Datum: NA
+
+Processed in AreGIS by: Morgan A 9/17
+
+Document Name: Il. PE_MVR_20240917_CS_18021820_24C
+
+opin)
+River Fatures
+Later Buoy
+A. Green
+
+‘caution Areas
+
+re
+Sat
+
+US ARMY CORPS OF ENGINEERS
+
+ROCK ISLAND DISTRICT
+
+EMVR - OD-T
+WATERWAY: ILLINOIS WATERWAY
+POOL: Peoria
+REACH: Chillicothe
+
+MILES: 180.6 to 181.8
+VEY TYPE: CONDITION
+
+COLLECTION TYPE: Multibeam
+
+© 100200 400 600 800
+es
+
+RVEYED RIVER MILES: 180.2-18
+
+Linch = 200 feet
+i60d°
+
+US Army Corps
+of Engineers
+
+{ck stan i
+
+48 of 147
+
+=
+[ey
+ee
+Ee
+a
+a
+
+CHILLICOTHE, IL
+
+Chillicothe
+Island
+
+Dep ir) Rivero
+
+- eo 2 ne US ARMY CORPS OF ENGINEERS
+Jake R, Cody T alin > NG Ro ROCK ISLAND DISTRICT
+SV Ragnar so Costas CEMVR - OD-T
+
+Flat Pool: 440° Segment 7 WATERWAY: ILLINOIS WATERWAY
+Water Surface: 440.17 : & f ta tens ¥ POOL: Peoria
+
+0.17 , 4 seen ren REACH: Lower Chillicothe to Chillicothe
+Water Surface Source: GAGE “ REACH MILES: 1 to 180.7
+Downstream Gage: Peoria Lock Pool RM 1 ‘auton Areas y J CONDITION
+Upstream Gage: Henry RM 196.1 f 1 * “OLLECTION TYPE: Multibeam
+
+RTK to Pool Datum: NA. 2 R i
+J inch
+
+Processed in ArcGIS by: Morgan A 9) 2 400 600 800 i
+es
+
+Document Name: 11. PE_MVR_20240917 CS_18021820.24C_ = S: 180.2-182.0
+
+September 17, 2024
+

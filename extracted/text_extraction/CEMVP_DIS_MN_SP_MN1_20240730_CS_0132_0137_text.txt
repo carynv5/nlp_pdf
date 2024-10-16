@@ -1,0 +1,59 @@
+U.S. ARMY
+
+CORPS OF ENGINEERS
+
+US Army Comps
+‘of Engineers
+District: CEMVP
+
+2
+j
+
+Contour Lines
+
+0.0-9.0 ! Green
+
+Depth
+
+——— >9.0- 10.5
+
+>10.5- 100.0
+q Red
+
+Navigation Lights
+
+Navigation Symbols
+4 Green Buoy
+A Red Buoy
+® Snag
+‘Submerged Pipeline
+‘Submerged Cable
+— Structure WingDam Dike
+
+Water Elevation :
+Low Control Pool :
+
+We
+
+F Surface :
+
+Reach Name : Cargill Slip
+
+692.3 Project MN_SP_MN1_20240730_CS_0132_0137
+686.8 Pool :POOL_MN1_MINNESOTA_RIVER
+45.5
+
+‘Survey Date :30 July 2024
+
+‘Survey Vessel : Launch_22
+
+Foot
+
+200 4200 7,600 2000
+
+Sheet
+Reference
+Number
+
+14 of 16
+
