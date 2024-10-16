@@ -4,6 +4,7 @@ This project provides a collection of Python scripts for extracting various type
 
 ## Features
 
+- Azure Document Intelligence
 - Text extraction
 - Table extraction
 - Image extraction
